@@ -92,6 +92,10 @@ body {
     color: white;
 }
 
+.input-field:focus {
+    outline: #555 solid 2px;
+}
+
 ::placeholder {
     text-align: center;
 }
