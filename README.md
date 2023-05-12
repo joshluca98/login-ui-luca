@@ -1,4 +1,4 @@
-# simple-login-ui
+# login-ui-luca
 
 <p align="center">
   Simple login UI with no external dependencies. Built with HTML and vanilla CSS using flexbox.
